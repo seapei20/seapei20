@@ -23,21 +23,32 @@
 I'm a software engineering student at **WeThinkCode_**, where I learn by building, breaking and fixing real projects. I love the moment when separate systems finally connect and data starts to flow, and I love turning that data into something people can actually use. Along the way I'm growing my skills in **AI, cybersecurity and networking**, and I share the whole journey right here on GitHub.
 
 ## ✨ What I Do
-- 💻 **Software Engineering:** writing clean, working code and shipping real projects
-- 🔗 **System Integration:** connecting systems and automating the flow of data
-- 📊 **Data Analytics:** finding the story hidden inside raw data
+- 💻 **Software Engineering:** writing clean, tested code and shipping real projects
+- 🔗 **System Integration:** connecting services with REST and message queues
+- 📊 **Data Analytics:** cleaning messy data and finding the story inside it
 - 🤖 **AI:** exploring how data powers intelligent solutions
 - 🔐 **Cybersecurity & Networking:** understanding how systems communicate and how to keep them secure
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [📊 logistics-analytics](https://github.com/seapei20/logistics-analytics) | Cleans messy shipment data with documented, tested rules and analyses on-time delivery across South African provinces | Python, Pandas, Pytest |
+| [🚚 sin-001-logisticsconnect](https://github.com/seapei20/sin-001-logisticsconnect) | Five independent services that track hub delays, calculate ETAs and raise alerts, connected by REST and ActiveMQ | Java, Maven, ActiveMQ, Docker |
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-A18CD1?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-F857A6?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-FF9A9E?style=for-the-badge&logo=pandas&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-C471ED?style=for-the-badge&logo=html5&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FBC2EB?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F6A5C0?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-B794F4?style=for-the-badge&logo=linux&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-F857A6?style=for-the-badge&logo=numpy&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-C471ED?style=for-the-badge&logo=pytest&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F6A5C0?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-B794F4?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FBC2EB?style=for-the-badge&logo=docker&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-A18CD1?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-F857A6?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-FF9A9E?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C471ED?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💖 Right Now
 - 🎓 Levelling up as a software engineer at WeThinkCode_
