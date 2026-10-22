@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hi,%20I'm%20Seapei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7B2FF7&height=200&section=header&text=Hi,%20I'm%20Seapei&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=WeThinkCode_+Student+%F0%9F%8E%93;Building+smart+systems+that+talk+to+each+other+%F0%9F%94%97;Turning+raw+data+into+insights+%F0%9F%93%8A;Curious+about+AI+%26+cybersecurity+%F0%9F%A4%96%F0%9F%94%90" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0072FF&center=true&vCenter=true&width=600&lines=WeThinkCode_+Student+%F0%9F%8E%93;Building+smart+systems+that+talk+to+each+other+%F0%9F%94%97;Turning+raw+data+into+insights+%F0%9F%93%8A;Curious+about+AI+%26+cybersecurity+%F0%9F%A4%96%F0%9F%94%90" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/South_Africa-🇿🇦-0A7A3D?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open_to-Internships-36BCF7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always_Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/South_Africa-🇿🇦-00A86B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_to-Internships-0072FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always_Learning-7B2FF7?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -33,7 +33,7 @@ I'm a software engineering student at **WeThinkCode_**, where I learn by buildin
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-7B2FF7?style=for-the-badge&logo=pandas&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -48,8 +48,8 @@ I'm a software engineering student at **WeThinkCode_**, where I learn by buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seapei20&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seapei20&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seapei20&show_icons=true&theme=default&title_color=0072FF&icon_color=00C6FF&text_color=334155&bg_color=FFFFFF&border_color=E2E8F0" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seapei20&layout=compact&theme=default&title_color=0072FF&text_color=334155&bg_color=FFFFFF&border_color=E2E8F0" />
 </p>
 
 ---
@@ -59,14 +59,5 @@ I'm a software engineering student at **WeThinkCode_**, where I learn by buildin
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:0072FF,100:00C6FF&height=100&section=footer" />
 </p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=seapei20&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seapei20&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">⭐ Thanks for visiting! Feel free to reach out.</p>
